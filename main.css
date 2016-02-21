@@ -1,0 +1,49 @@
+body {
+    background: url(images/Kanye1.jpg);
+    background-repeat: space;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+}
+
+@media (max-width: 768px) {
+    body {
+        background:url(images/Kanye2.png) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        text-align: center;
+    }
+}
+
+.container-fluid {
+
+}
+
+h1 {
+    font-size: 320%;
+}
+
+button {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background: url(images/Kanye3.png) repeat center center fixed;
+    height: 80px;
+}
+
+.pushdown {
+    height: 80px;
+}
+
+#footer {
+    background: url(images/Kanye3.png) repeat center center fixed;
+    height: 80px;
+}
+
+label {
+    font-weight: normal;
+    font-size: 1.4em;
+    font-weight: bold;
+}
