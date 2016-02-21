@@ -1,9 +1,17 @@
-<script>
 function userArtist()
 {
-  alert('hello there');
   var input = document.getElementById("artist").value;
-  alert('input');
-  alert('lets go!');
+  console.log('hit here');
+  $.ajax(
+  {
+    url: "http://localhost:5000/",
+    data: {artist:input},
+    success: function(data) {
+      $("#response").text(data);
+    },
+    error: function(data) {
+      $("#response").text("no mutual songs in common");
+    }
+  })
+
 }
-</script>

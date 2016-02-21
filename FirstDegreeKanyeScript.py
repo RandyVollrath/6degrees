@@ -14,6 +14,7 @@ from pprint import pprint
 import requests
 from collections import OrderedDict
 import sys
+import io
 import time
 from py2neo import Node, Relationship, Graph, authenticate, neo4j
 
@@ -33,7 +34,7 @@ kanyeCall = requests.get("http://api.genius.com/artists/72/songs?per_page=50&sor
     params={"access_token": "QoaHkyBYNqEmLJk6P3SFdBbm4R_6pXXssK24Wa0WR29MoBFHdG3gUI2IFJFxFFfw"})
 '''
 
-with open("/Users/randyvollrath/Documents/SixDegrees/KanyeAllSongs.txt", encoding='utf-8') as data_file:
+with io.open("/Users/randyvollrath/Documents/SixDegrees/KanyeAllSongs.txt", encoding='utf-8') as data_file:
     data=json.load(data_file)
 #    pprint(data)
 #Can now process data as python code
@@ -46,7 +47,7 @@ kanyeFirstDegreeDict = OrderedDict()
 #creates an *ordered* dict (ordered by popularity of song)
 
 responseHandling = data["response"]["songs"]
-#partially parses JSON 
+#partially parses JSON
 
 for i,entry in enumerate(responseHandling):
     kanyeFirstDegreeDict[responseHandling[i]["id"]]=responseHandling[i]["title"]
@@ -78,17 +79,17 @@ for key in kanyeSongIdsOnly:
     pythonicData = json.loads(resp.text)
     songsRespHandling = pythonicData["response"]["song"]["featured_artists"]
     #pprint(songsRespHandling)
-    
+
     nameOfSong = pythonicData["response"]["song"]["title"]
 
 
 
     #print (json.dumps(pythonicData, indent=4, sort_keys=True))
-    
+
     kanyeFeaturedArtistsDict = {}
 
     #print(pythonicData["response"]["song"]["primary_artist"]["name"],pythonicData["response"]["song"]["primary_artist"]["id"])
-    
+
     for i in range(0,len(songsRespHandling)):
         skip = False
         #print(i)
@@ -97,7 +98,7 @@ for key in kanyeSongIdsOnly:
 
         if songsRespHandling[i]["id"] == 72:
             skip = True
-            
+
             kanyeFeaturedArtistsDict.update({nameOfSong:[pythonicData["response"]["song"]["primary_artist"]["name"], pythonicData["response"]["song"]["primary_artist"]["id"]]})
             kanyeFeaturedArtistsList.append(kanyeFeaturedArtistsDict.copy())
 
@@ -107,8 +108,8 @@ for key in kanyeSongIdsOnly:
             alice_knows_bob = Relationship(alice, "KNOWS", bob, song=str(nameOfSong))
             graph.create(alice_knows_bob)
             #use merge_one
-            
-        else: 
+
+        else:
             kanyeFeaturedArtistsDict.update({nameOfSong:[songsRespHandling[i]["name"], songsRespHandling[i]["id"]]})
             kanyeFeaturedArtistsList.append(kanyeFeaturedArtistsDict.copy())
             #print(kanyeFeaturedArtistsList)
@@ -125,8 +126,8 @@ for key in kanyeSongIdsOnly:
     apiLimiterCounter+=1
     if apiLimiterCounter==4:
         break
-    
-results=graph.cypher.execute("match (n) where n.name= '{}' return n".format("Kendrick Lamar")) 
+
+results=graph.cypher.execute("match (n) where n.name= '{}' return n".format("Kendrick Lamar"))
 #where Kendrick Lamar is currently is where I can put a variable and have the song name returned
 
 
@@ -156,4 +157,3 @@ Now what's next:
 
 
 '''
-
