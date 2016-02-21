@@ -125,11 +125,13 @@ for key in kanyeSongIdsOnly:
     apiLimiterCounter+=1
     if apiLimiterCounter==4:
         break
+    
 results=graph.cypher.execute("match (n) where n.name= '{}' return n".format("Kendrick Lamar")) 
+#where Kendrick Lamar is currently is where I can put a variable and have the song name returned
+
 
 print(results.records[0].n.get_properties()["song"])
-#print(kanyeFeaturedArtistsList)  
-
+# python file prints 'No More Parties in LA"
 
 
 ##########################
@@ -152,6 +154,6 @@ the value a list with the featArtist name as the 0 value and their id 1 value
 '''
 Now what's next:
 
-hi
+
 '''
 
