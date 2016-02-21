@@ -8,17 +8,39 @@ I want to keep the order (popularity) in tact and I may want to create a dict fo
 '''
 
 import json
+#!/usr/bin/python
+
 from pprint import pprint
 import requests
 from collections import OrderedDict
 import sys
 import time
+from py2neo import Node, Relationship, Graph, authenticate, neo4j
+
+
+
+NEO4J_URL = 'localhost:7474'
+NEO4J_USER = 'neo4j'
+NEO4J_PASSWORD = 'Swerve1728'
+NEO4J_GRAPH = "/db/data/"
+
+authenticate(NEO4J_URL, NEO4J_USER, NEO4J_PASSWORD)
+graph = Graph('http://' + NEO4J_URL + NEO4J_GRAPH)
+graph.delete_all()
+
+'''
+kanyeCall = requests.get("http://api.genius.com/artists/72/songs?per_page=50&sort=popularity&secondary_artist&featured_artist",
+    params={"access_token": "QoaHkyBYNqEmLJk6P3SFdBbm4R_6pXXssK24Wa0WR29MoBFHdG3gUI2IFJFxFFfw"})
+'''
 
 with open("/Users/randyvollrath/Documents/SixDegrees/KanyeAllSongs.txt", encoding='utf-8') as data_file:
     data=json.load(data_file)
 #    pprint(data)
 #Can now process data as python code
 
+alice = Node("Artist", name="Kanye West")
+#print(alice)
+graph.create(alice)
 
 kanyeFirstDegreeDict = OrderedDict()
 #creates an *ordered* dict (ordered by popularity of song)
@@ -40,7 +62,9 @@ kanyeSongIdsOnly = kanyeFirstDegreeDict.keys()
 
 kanyeFeaturedArtistsList = []
 
-counter=0
+apiLimiterCounter=0
+
+
 
 for key in kanyeSongIdsOnly:
 
@@ -57,6 +81,8 @@ for key in kanyeSongIdsOnly:
     
     nameOfSong = pythonicData["response"]["song"]["title"]
 
+
+
     #print (json.dumps(pythonicData, indent=4, sort_keys=True))
     
     kanyeFeaturedArtistsDict = {}
@@ -65,26 +91,46 @@ for key in kanyeSongIdsOnly:
     
     for i in range(0,len(songsRespHandling)):
         skip = False
-        
+        #print(i)
+        artistName=songsRespHandling[i]["name"]
+        artistId= songsRespHandling[i]["id"]
+
         if songsRespHandling[i]["id"] == 72:
             skip = True
             
             kanyeFeaturedArtistsDict.update({nameOfSong:[pythonicData["response"]["song"]["primary_artist"]["name"], pythonicData["response"]["song"]["primary_artist"]["id"]]})
             kanyeFeaturedArtistsList.append(kanyeFeaturedArtistsDict.copy())
+
+
+            bob = Node("Artist", name=str(artistName), id=artistId)
+            graph.create(bob)
+            alice_knows_bob = Relationship(alice, "KNOWS", bob, song=str(nameOfSong))
+            graph.create(alice_knows_bob)
+            #use merge_one
             
         else: 
             kanyeFeaturedArtistsDict.update({nameOfSong:[songsRespHandling[i]["name"], songsRespHandling[i]["id"]]})
             kanyeFeaturedArtistsList.append(kanyeFeaturedArtistsDict.copy())
+            #print(kanyeFeaturedArtistsList)
+            bob = Node("Artist", name=str(artistName), song=str(nameOfSong))
+            #print(str(bob))
+            alice_knows_bob = Relationship(alice, "Collaborated with", bob, song=str(nameOfSong))
+            #print(str(alice_knows_bob))
+            graph.create(alice_knows_bob)
 
 #pprint(songsRespHandling)
 #non_bmp_map = pythonicData.fromkeys(range(0x10000, sys.maxunicode + 1), 0xfffd)
 #print(non_bmp_map)
 
-    counter+=1
-    if counter==4:
+    apiLimiterCounter+=1
+    if apiLimiterCounter==4:
         break
-    
-print(kanyeFeaturedArtistsList)  
+results=graph.cypher.execute("match (n) where n.name= '{}' return n".format("Kendrick Lamar")) 
+
+print(results.records[0].n.get_properties()["song"])
+#print(kanyeFeaturedArtistsList)  
+
+
 
 ##########################
 '''skip = False
