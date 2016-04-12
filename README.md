@@ -9,3 +9,7 @@ I'm using the Rap Genius API for song data and Neo4j as the database.
 I've got 1 degree of seperation right now. Working to make this code I have into a recursive function that will break at 6 degrees.
 
 Any comments/suggestions/help is totally welcome! Feel free to e-mail me: RandyVollrath@gmail.com 
+
+Here's the project on DevPost: This is about as far as I am right now. I did most of this at HackIllinois 2016 
+http://devpost.com/software/6-degree-of-kanye 
+
