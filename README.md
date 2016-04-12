@@ -1,4 +1,4 @@
-# 6degrees
+# 6 degrees of Kanye West
 
 This is the 6 degrees of Kanye West. It takes the concept of the 6 degrees of Kevin Bacon and applies it to Kanye West. F
 
