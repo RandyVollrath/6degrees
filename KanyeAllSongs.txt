@@ -5,860 +5,1504 @@
   "response": {
     "songs": [
       {
-        "id": 2403856,
-        "title": "No More Parties in L.A.",
-        "url": "http://genius.com/Kanye-west-no-more-parties-in-la-lyrics",
-        "path": "/Kanye-west-no-more-parties-in-la-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 132
-      },
-      {
-        "id": 714782,
-        "title": "The Life of Pablo [Album Art + Tracklist]",
-        "url": "http://genius.com/Kanye-west-the-life-of-pablo-album-art-tracklist-lyrics",
-        "path": "/Kanye-west-the-life-of-pablo-album-art-tracklist-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 106
-      },
-      {
-        "id": 2403628,
-        "title": "Real Friends",
-        "url": "http://genius.com/Kanye-west-real-friends-lyrics",
-        "path": "/Kanye-west-real-friends-lyrics",
-        "header_image_url": "https://images.rapgenius.com/d4d051b8868f4ef49b2c7f9266d27236.1000x993x1.png",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/d4d051b8868f4ef49b2c7f9266d27236.300x298x1.png",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 144
-      },
-      {
-        "id": 2413549,
-        "title": "Ultralight Beam",
-        "url": "http://genius.com/Kanye-west-ultralight-beam-lyrics",
-        "path": "/Kanye-west-ultralight-beam-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 99
-      },
-      {
-        "id": 2412669,
-        "title": "Father Stretch My Hands, Pt. 1",
-        "url": "http://genius.com/Kanye-west-father-stretch-my-hands-pt-1-lyrics",
-        "path": "/Kanye-west-father-stretch-my-hands-pt-1-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 29
-      },
-      {
-        "id": 2399676,
-        "title": "FACTS (Charlie Heat Version)",
-        "url": "http://genius.com/Kanye-west-facts-charlie-heat-version-lyrics",
-        "path": "/Kanye-west-facts-charlie-heat-version-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 107
-      },
-      {
-        "id": 2412662,
-        "title": "Famous",
-        "url": "http://genius.com/Kanye-west-famous-lyrics",
-        "path": "/Kanye-west-famous-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 20
-      },
-      {
-        "id": 2421661,
-        "title": "FML",
-        "url": "http://genius.com/Kanye-west-fml-lyrics",
-        "path": "/Kanye-west-fml-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 31
-      },
-      {
-        "id": 2421668,
-        "title": "Wolves",
-        "url": "http://genius.com/Kanye-west-wolves-lyrics",
-        "path": "/Kanye-west-wolves-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 33
-      },
-      {
-        "id": 2412664,
-        "title": "Highlights",
-        "url": "http://genius.com/Kanye-west-highlights-lyrics",
-        "path": "/Kanye-west-highlights-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 24
-      },
-      {
-        "id": 2412668,
-        "title": "Waves",
-        "url": "http://genius.com/Kanye-west-waves-lyrics",
-        "path": "/Kanye-west-waves-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 24
-      },
-      {
-        "id": 2421955,
-        "title": "30 Hours",
-        "url": "http://genius.com/Kanye-west-30-hours-lyrics",
-        "path": "/Kanye-west-30-hours-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 34
-      },
-      {
-        "id": 2307999,
-        "title": "Fade",
-        "url": "http://genius.com/Kanye-west-fade-lyrics",
-        "path": "/Kanye-west-fade-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 33
-      },
-      {
-        "id": 2421998,
-        "title": "Father Stretch My Hands, Pt. 2",
-        "url": "http://genius.com/Kanye-west-father-stretch-my-hands-pt-2-lyrics",
-        "path": "/Kanye-west-father-stretch-my-hands-pt-2-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 12
-      },
-      {
-        "id": 2421331,
-        "title": "Freestyle 4",
-        "url": "http://genius.com/Kanye-west-freestyle-4-lyrics",
-        "path": "/Kanye-west-freestyle-4-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 15
-      },
-      {
-        "id": 1149,
-        "title": "Monster",
-        "url": "http://genius.com/Kanye-west-monster-lyrics",
-        "path": "/Kanye-west-monster-lyrics",
-        "header_image_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 254
-      },
-      {
-        "id": 2421329,
-        "title": "Feedback",
-        "url": "http://genius.com/Kanye-west-feedback-lyrics",
-        "path": "/Kanye-west-feedback-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 12
-      },
-      {
-        "id": 2422080,
-        "title": "I Love Kanye",
-        "url": "http://genius.com/Kanye-west-i-love-kanye-lyrics",
-        "path": "/Kanye-west-i-love-kanye-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 11
-      },
-      {
-        "id": 2421965,
-        "title": "Low Lights",
-        "url": "http://genius.com/Kanye-west-low-lights-lyrics",
-        "path": "/Kanye-west-low-lights-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 3
-      },
-      {
-        "id": 2421968,
-        "title": "Siiiiiiiiilver Surffffeeeeer Intermission",
-        "url": "http://genius.com/Kanye-west-siiiiiiiiilver-surffffeeeeer-intermission-lyrics",
-        "path": "/Kanye-west-siiiiiiiiilver-surffffeeeeer-intermission-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 3
-      },
-      {
-        "id": 693878,
-        "title": "Blessings",
-        "url": "http://genius.com/Big-sean-blessings-lyrics",
-        "path": "/Big-sean-blessings-lyrics",
-        "header_image_url": "https://images.rapgenius.com/ce50197348a4aeafedb19702e7132029.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/ce50197348a4aeafedb19702e7132029.300x300x1.jpg",
-        "primary_artist": {
-          "id": 492,
-          "name": "Big Sean",
-          "url": "http://genius.com/artists/Big-sean",
-          "image_url": "https://images.rapgenius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
-          "is_verified": true,
-          "iq": 5403
-        },
-        "annotation_count": 1,
-        "pyongs_count": 1350
-      },
-      {
-        "id": 51899,
-        "title": "Niggas in Paris",
-        "url": "http://genius.com/Kanye-west-niggas-in-paris-lyrics",
-        "path": "/Kanye-west-niggas-in-paris-lyrics",
-        "header_image_url": "https://images.rapgenius.com/2877b2e18af5ef2d4a00bc22726fc532.670x335x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/2877b2e18af5ef2d4a00bc22726fc532.300x150x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 312
-      },
-      {
-        "id": 2273458,
-        "title": "Tell Your Friends",
-        "url": "http://genius.com/The-weeknd-tell-your-friends-lyrics",
-        "path": "/The-weeknd-tell-your-friends-lyrics",
-        "header_image_url": "https://images.rapgenius.com/aeaecd9f7bf870a92ad5c37946d74f36.601x601x1.png",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/aeaecd9f7bf870a92ad5c37946d74f36.300x300x1.png",
-        "primary_artist": {
-          "id": 2358,
-          "name": "The Weeknd",
-          "url": "http://genius.com/artists/The-weeknd",
-          "image_url": "https://images.rapgenius.com/f8085c3d25c371ca549f91fbf74bdea7.590x590x1.png",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 42
-      },
-      {
-        "id": 701664,
-        "title": "One Man Can Change the World",
-        "url": "http://genius.com/Big-sean-one-man-can-change-the-world-lyrics",
-        "path": "/Big-sean-one-man-can-change-the-world-lyrics",
-        "header_image_url": "https://images.rapgenius.com/4529826542081e88db51f2e62cc5afcf.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/4529826542081e88db51f2e62cc5afcf.300x300x1.jpg",
-        "primary_artist": {
-          "id": 492,
-          "name": "Big Sean",
-          "url": "http://genius.com/artists/Big-sean",
-          "image_url": "https://images.rapgenius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
-          "is_verified": true,
-          "iq": 5403
-        },
-        "annotation_count": 1,
-        "pyongs_count": 291
-      },
-      {
-        "id": 1267,
-        "title": "Gold Digger",
-        "url": "http://genius.com/Kanye-west-gold-digger-lyrics",
-        "path": "/Kanye-west-gold-digger-lyrics",
-        "header_image_url": "https://s3.amazonaws.com/rapgenius/Late_registration_cd_cover.jpg",
-        "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/Late_registration_cd_cover.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 94
-      },
-      {
-        "id": 703628,
-        "title": "Wolves (SNL / Yeezy Season 1)",
-        "url": "http://genius.com/Kanye-west-wolves-snl-yeezy-season-1-lyrics",
-        "path": "/Kanye-west-wolves-snl-yeezy-season-1-lyrics",
-        "header_image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.300x169x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 766
-      },
-      {
-        "id": 1295,
-        "title": "Runaway",
-        "url": "http://genius.com/Kanye-west-runaway-lyrics",
-        "path": "/Kanye-west-runaway-lyrics",
-        "header_image_url": "https://images.rapgenius.com/9anlsbs7wdc4pye9sfiwnh5uc.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/9anlsbs7wdc4pye9sfiwnh5uc.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 241
-      },
-      {
-        "id": 517618,
-        "title": "I Don't Fuck With You",
-        "url": "http://genius.com/Big-sean-i-dont-fuck-with-you-lyrics",
-        "path": "/Big-sean-i-dont-fuck-with-you-lyrics",
-        "header_image_url": "https://images.rapgenius.com/39e013e3b6237479942f2a5fa4df4299.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/39e013e3b6237479942f2a5fa4df4299.300x300x1.jpg",
-        "primary_artist": {
-          "id": 492,
-          "name": "Big Sean",
-          "url": "http://genius.com/artists/Big-sean",
-          "image_url": "https://images.rapgenius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
-          "is_verified": true,
-          "iq": 5403
-        },
-        "annotation_count": 1,
-        "pyongs_count": 2658
-      },
-      {
-        "id": 2402167,
-        "title": "Reaper",
-        "url": "http://genius.com/Sia-reaper-lyrics",
-        "path": "/Sia-reaper-lyrics",
-        "header_image_url": "https://images.rapgenius.com/aeef91accb51e011c098ee397f15252d.620x537x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/aeef91accb51e011c098ee397f15252d.300x260x1.jpg",
-        "primary_artist": {
-          "id": 16775,
-          "name": "Sia",
-          "url": "http://genius.com/artists/Sia",
-          "image_url": "https://images.rapgenius.com/de1b2bbca8e366211c986f5680e1c1dc.650x430x1.jpg",
-          "is_verified": true,
-          "iq": 4151
-        },
-        "annotation_count": 1,
-        "pyongs_count": 17
-      },
-      {
-        "id": 152933,
-        "title": "Black Skinhead",
-        "url": "http://genius.com/Kanye-west-black-skinhead-lyrics",
-        "path": "/Kanye-west-black-skinhead-lyrics",
-        "header_image_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 278
-      },
-      {
-        "id": 482233,
-        "title": "All Day",
-        "url": "http://genius.com/Kanye-west-all-day-lyrics",
-        "path": "/Kanye-west-all-day-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5e64677831b6775d34bf583697962241.500x500x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5e64677831b6775d34bf583697962241.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 961
-      },
-      {
-        "id": 2389352,
-        "title": "M.P.A.",
-        "url": "http://genius.com/Pusha-t-mpa-lyrics",
-        "path": "/Pusha-t-mpa-lyrics",
-        "header_image_url": "https://images.rapgenius.com/456d2c1e7b1dc2d52a08c5840820861b.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/456d2c1e7b1dc2d52a08c5840820861b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 643,
-          "name": "Pusha T",
-          "url": "http://genius.com/artists/Pusha-t",
-          "image_url": "https://images.rapgenius.com/6b4374034891ccc48aaad8e6855f9b6f.585x400x1.jpg",
-          "is_verified": true,
-          "iq": 29281
-        },
-        "annotation_count": 1,
-        "pyongs_count": 29
-      },
-      {
+        "annotation_count": 74,
+        "api_path": "/songs/70324",
+        "full_title": "Mercy by Kanye West (Ft. 2 Chainz, Big Sean & Pusha T)",
+        "header_image_thumbnail_url": "https://images.genius.com/ba049d8aa6c5d913f0574ace24cc4230.300x301x1.png",
+        "header_image_url": "https://images.genius.com/ba049d8aa6c5d913f0574ace24cc4230.500x502x1.png",
         "id": 70324,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-mercy-lyrics",
+        "pyongs_count": 268,
+        "song_art_image_thumbnail_url": "https://images.genius.com/bc2ea98822653bf0fbb4cda313c705d2.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 6,
+          "pageviews": 5684809
+        },
         "title": "Mercy",
         "url": "http://genius.com/Kanye-west-mercy-lyrics",
-        "path": "/Kanye-west-mercy-lyrics",
-        "header_image_url": "https://images.rapgenius.com/7a738c74167e09fbac8f61ae1c21f2db.620x620x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/7a738c74167e09fbac8f61ae1c21f2db.300x300x1.jpg",
         "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
           "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
           "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 257
+          "url": "http://genius.com/artists/Kanye-west"
+        }
       },
       {
-        "id": 52020,
-        "title": "No Church in the Wild",
-        "url": "http://genius.com/Kanye-west-no-church-in-the-wild-lyrics",
-        "path": "/Kanye-west-no-church-in-the-wild-lyrics",
-        "header_image_url": "https://s3.amazonaws.com/rapgenius/the-great-gatsby-20131-e1350321293835.jpeg",
-        "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/the-great-gatsby-20131-e1350321293835.jpeg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
+        "annotation_count": 39,
+        "api_path": "/songs/51899",
+        "full_title": "Niggas in Paris by Jay Z & Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/39e0f1b492fc9264a6c00133eaa96450.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/39e0f1b492fc9264a6c00133eaa96450.300x300x1.jpg",
+        "id": 51899,
+        "lyrics_owner_id": 3,
+        "path": "/Jay-z-and-kanye-west-niggas-in-paris-lyrics",
+        "pyongs_count": 330,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/141be8a4ed51ca526d3fe26611ed05f3.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 9,
+          "pageviews": 4449976
         },
-        "annotation_count": 1,
-        "pyongs_count": 173
+        "title": "Niggas in Paris",
+        "url": "http://genius.com/Jay-z-and-kanye-west-niggas-in-paris-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/652275",
+          "header_image_url": "https://images.genius.com/7b19a92897a3bbfa22f2c6a8f76cd6ec.500x358x1.jpg",
+          "id": 652275,
+          "image_url": "https://images.genius.com/7b19a92897a3bbfa22f2c6a8f76cd6ec.500x358x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Jay Z & Kanye West",
+          "url": "http://genius.com/artists/Jay-z-and-kanye-west"
+        }
       },
       {
-        "id": 167180,
-        "title": "Blood On the Leaves",
-        "url": "http://genius.com/Kanye-west-blood-on-the-leaves-lyrics",
-        "path": "/Kanye-west-blood-on-the-leaves-lyrics",
-        "header_image_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 224
-      },
-      {
-        "id": 158615,
-        "title": "Bound 2",
-        "url": "http://genius.com/Kanye-west-bound-2-lyrics",
-        "path": "/Kanye-west-bound-2-lyrics",
-        "header_image_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 347
-      },
-      {
-        "id": 2413804,
-        "title": "#Wizwearscoolpants: Twitter Visionary Stream of Consciousness on Wiz Khalifa",
-        "url": "http://genius.com/Kanye-west-wizwearscoolpants-twitter-visionary-stream-of-consciousness-on-wiz-khalifa-lyrics",
-        "path": "/Kanye-west-wizwearscoolpants-twitter-visionary-stream-of-consciousness-on-wiz-khalifa-lyrics",
-        "header_image_url": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi.jpg",
-        "header_image_thumbnail_url": "https://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 13
-      },
-      {
-        "id": 2415045,
-        "title": "The Life Of Pablo Studio Notepad",
-        "url": "http://genius.com/Kanye-west-the-life-of-pablo-studio-notepad-lyrics",
-        "path": "/Kanye-west-the-life-of-pablo-studio-notepad-lyrics",
-        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 5
-      },
-      {
-        "id": 510,
-        "title": "Power",
-        "url": "http://genius.com/Kanye-west-power-lyrics",
-        "path": "/Kanye-west-power-lyrics",
-        "header_image_url": "https://images.rapgenius.com/79c69a32d0bea821cbaaf863543b8a50.576x272x1.png",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/79c69a32d0bea821cbaaf863543b8a50.300x142x1.png",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 156
-      },
-      {
-        "id": 1944,
-        "title": "Blame Game",
-        "url": "http://genius.com/Kanye-west-blame-game-lyrics",
-        "path": "/Kanye-west-blame-game-lyrics",
-        "header_image_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 85
-      },
-      {
-        "id": 152640,
-        "title": "New Slaves",
-        "url": "http://genius.com/Kanye-west-new-slaves-lyrics",
-        "path": "/Kanye-west-new-slaves-lyrics",
-        "header_image_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 336
-      },
-      {
+        "annotation_count": 54,
+        "api_path": "/songs/87225",
+        "full_title": "Clique by Kanye West (Ft. Big Sean & Jay Z)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/79ca9acdec183d7a16920c1612a0ebfa.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/79ca9acdec183d7a16920c1612a0ebfa.630x630x1.jpg",
         "id": 87225,
+        "lyrics_owner_id": 11637,
+        "path": "/Kanye-west-clique-lyrics",
+        "pyongs_count": 162,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/79ca9acdec183d7a16920c1612a0ebfa.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 2,
+          "concurrents": 3,
+          "pageviews": 3206209
+        },
         "title": "Clique",
         "url": "http://genius.com/Kanye-west-clique-lyrics",
-        "path": "/Kanye-west-clique-lyrics",
-        "header_image_url": "https://images.rapgenius.com/18545297429e776497ae4e854d0d2656.628x353x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/18545297429e776497ae4e854d0d2656.300x169x1.jpg",
         "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
           "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
           "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 156
+          "url": "http://genius.com/artists/Kanye-west"
+        }
       },
       {
-        "id": 86,
-        "title": "All Falls Down",
-        "url": "http://genius.com/Kanye-west-all-falls-down-lyrics",
-        "path": "/Kanye-west-all-falls-down-lyrics",
-        "header_image_url": "https://s3.amazonaws.com/rapgenius/1313134236_tumblr_kpk19kf8DE1qzbpvro1_500.jpg",
-        "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/1313134236_tumblr_kpk19kf8DE1qzbpvro1_500.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
+        "annotation_count": 40,
+        "api_path": "/songs/158615",
+        "full_title": "Bound 2 by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
+        "id": 158615,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-bound-2-lyrics",
+        "pyongs_count": 354,
+        "song_art_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 3,
+          "pageviews": 2895093
         },
-        "annotation_count": 1,
-        "pyongs_count": 84
+        "title": "Bound 2",
+        "url": "http://genius.com/Kanye-west-bound-2-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
       },
       {
-        "id": 1791,
-        "title": "Gorgeous",
-        "url": "http://genius.com/Kanye-west-gorgeous-lyrics",
-        "path": "/Kanye-west-gorgeous-lyrics",
-        "header_image_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
+        "annotation_count": 12,
+        "api_path": "/songs/2412669",
+        "full_title": "Father Stretch My Hands Pt. 1 by Kanye West (Ft. Kid Cudi)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.600x600x1.jpg",
+        "id": 2412669,
+        "lyrics_owner_id": 409643,
+        "path": "/Kanye-west-father-stretch-my-hands-pt-1-lyrics",
+        "pyongs_count": 144,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 17,
+          "pageviews": 2717896
         },
-        "annotation_count": 1,
-        "pyongs_count": 114
+        "title": "Father Stretch My Hands Pt. 1",
+        "url": "http://genius.com/Kanye-west-father-stretch-my-hands-pt-1-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
       },
       {
-        "id": 1660,
-        "title": "Dark Fantasy",
-        "url": "http://genius.com/Kanye-west-dark-fantasy-lyrics",
-        "path": "/Kanye-west-dark-fantasy-lyrics",
-        "header_image_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
+        "annotation_count": 38,
+        "api_path": "/songs/517618",
+        "full_title": "I Don't Fuck With You by Big Sean (Ft. E-40)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/39e013e3b6237479942f2a5fa4df4299.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/39e013e3b6237479942f2a5fa4df4299.1000x1000x1.jpg",
+        "id": 517618,
+        "lyrics_owner_id": 599242,
+        "path": "/Big-sean-i-dont-fuck-with-you-lyrics",
+        "pyongs_count": 2667,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/39e013e3b6237479942f2a5fa4df4299.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 2641119
         },
-        "annotation_count": 1,
-        "pyongs_count": 101
+        "title": "I Don't Fuck With You",
+        "url": "http://genius.com/Big-sean-i-dont-fuck-with-you-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/492",
+          "header_image_url": "https://images.genius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
+          "id": 492,
+          "image_url": "https://images.genius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Big Sean",
+          "url": "http://genius.com/artists/Big-sean",
+          "iq": 6042
+        }
       },
       {
-        "id": 848,
-        "title": "Can't Tell Me Nothing",
-        "url": "http://genius.com/Kanye-west-cant-tell-me-nothing-lyrics",
-        "path": "/Kanye-west-cant-tell-me-nothing-lyrics",
-        "header_image_url": "https://images.rapgenius.com/336af3b66a79eb083a8469fa6f5c84c5.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/336af3b66a79eb083a8469fa6f5c84c5.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
+        "annotation_count": 30,
+        "api_path": "/songs/52020",
+        "full_title": "No Church in the Wild by Jay Z & Kanye West (Ft. Frank Ocean & The-Dream)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/80fc6014277eaaf1c8d7c9c9120db674.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/80fc6014277eaaf1c8d7c9c9120db674.600x600x1.jpg",
+        "id": 52020,
+        "lyrics_owner_id": 7,
+        "path": "/Jay-z-and-kanye-west-no-church-in-the-wild-lyrics",
+        "pyongs_count": 183,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/80fc6014277eaaf1c8d7c9c9120db674.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 2451639
         },
-        "annotation_count": 1,
-        "pyongs_count": 93
+        "title": "No Church in the Wild",
+        "url": "http://genius.com/Jay-z-and-kanye-west-no-church-in-the-wild-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/652275",
+          "header_image_url": "https://images.genius.com/7b19a92897a3bbfa22f2c6a8f76cd6ec.500x358x1.jpg",
+          "id": 652275,
+          "image_url": "https://images.genius.com/7b19a92897a3bbfa22f2c6a8f76cd6ec.500x358x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Jay Z & Kanye West",
+          "url": "http://genius.com/artists/Jay-z-and-kanye-west"
+        }
       },
       {
-        "id": 1207,
-        "title": "Devil In a New Dress",
-        "url": "http://genius.com/Kanye-west-devil-in-a-new-dress-lyrics",
-        "path": "/Kanye-west-devil-in-a-new-dress-lyrics",
-        "header_image_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/a0f58f2ad1a238727bd3c10c40dd9374.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
+        "annotation_count": 47,
+        "api_path": "/songs/693878",
+        "full_title": "Blessings by Big Sean (Ft. Drake & Kanye West)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/ce50197348a4aeafedb19702e7132029.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/ce50197348a4aeafedb19702e7132029.1000x1000x1.jpg",
+        "id": 693878,
+        "lyrics_owner_id": 599242,
+        "path": "/Big-sean-blessings-lyrics",
+        "pyongs_count": 1366,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/ce50197348a4aeafedb19702e7132029.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 8,
+          "pageviews": 2360256
         },
-        "annotation_count": 1,
-        "pyongs_count": 105
+        "title": "Blessings",
+        "url": "http://genius.com/Big-sean-blessings-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/492",
+          "header_image_url": "https://images.genius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
+          "id": 492,
+          "image_url": "https://images.genius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Big Sean",
+          "url": "http://genius.com/artists/Big-sean",
+          "iq": 6042
+        }
       },
       {
+        "annotation_count": 54,
+        "api_path": "/songs/152640",
+        "full_title": "New Slaves by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
+        "id": 152640,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-new-slaves-lyrics",
+        "pyongs_count": 350,
+        "song_art_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "pageviews": 2305995
+        },
+        "title": "New Slaves",
+        "url": "http://genius.com/Kanye-west-new-slaves-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 29,
+        "api_path": "/songs/167180",
+        "full_title": "Blood On the Leaves by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
+        "id": 167180,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-blood-on-the-leaves-lyrics",
+        "pyongs_count": 234,
+        "song_art_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 6,
+          "pageviews": 2163943
+        },
+        "title": "Blood On the Leaves",
+        "url": "http://genius.com/Kanye-west-blood-on-the-leaves-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 45,
+        "api_path": "/songs/81901",
+        "full_title": "Birthday Song by 2 Chainz (Ft. Kanye West)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/662aecc043e00e2024c2edca76be933a.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/662aecc043e00e2024c2edca76be933a.612x612x1.jpg",
+        "id": 81901,
+        "lyrics_owner_id": 11524,
+        "path": "/2-chainz-birthday-song-lyrics",
+        "pyongs_count": 81,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/662aecc043e00e2024c2edca76be933a.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 3,
+          "pageviews": 2025436
+        },
+        "title": "Birthday Song",
+        "url": "http://genius.com/2-chainz-birthday-song-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/14325",
+          "header_image_url": "https://images.genius.com/3a1307a6dd3e7c96f45d61981dfd8e9e.929x563x1.png",
+          "id": 14325,
+          "image_url": "https://images.genius.com/3a1307a6dd3e7c96f45d61981dfd8e9e.929x563x1.png",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "2 Chainz",
+          "url": "http://genius.com/artists/2-chainz",
+          "iq": 5910
+        }
+      },
+      {
+        "annotation_count": 31,
+        "api_path": "/songs/152933",
+        "full_title": "Black Skinhead by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
+        "id": 152933,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-black-skinhead-lyrics",
+        "pyongs_count": 285,
+        "song_art_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 4,
+          "pageviews": 1974211
+        },
+        "title": "Black Skinhead",
+        "url": "http://genius.com/Kanye-west-black-skinhead-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 39,
+        "api_path": "/songs/2413549",
+        "full_title": "Ultralight Beam by Kanye West (Ft. Chance The Rapper, Kelly Price, Kirk Franklin & The-Dream)",
+        "header_image_thumbnail_url": "https://images.genius.com/7e5d0eff56aff6fd1e4286671a201e4e.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/7e5d0eff56aff6fd1e4286671a201e4e.1000x1000x1.jpg",
+        "id": 2413549,
+        "lyrics_owner_id": 672397,
+        "path": "/Kanye-west-ultralight-beam-lyrics",
+        "pyongs_count": 223,
+        "song_art_image_thumbnail_url": "https://images.genius.com/7e5d0eff56aff6fd1e4286671a201e4e.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 25,
+          "pageviews": 1929500
+        },
+        "title": "Ultralight Beam",
+        "url": "http://genius.com/Kanye-west-ultralight-beam-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 75,
+        "api_path": "/songs/72024",
+        "full_title": "Don't Like by Kanye West (Ft. Big Sean, Chief Keef, Jadakiss & Pusha T)",
+        "header_image_thumbnail_url": "https://images.genius.com/322435a5292212fedaf75932701915cb.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/322435a5292212fedaf75932701915cb.316x316x1.jpg",
+        "id": 72024,
+        "lyrics_owner_id": 1297,
+        "path": "/Kanye-west-dont-like-lyrics",
+        "pyongs_count": 83,
+        "song_art_image_thumbnail_url": "https://images.genius.com/322435a5292212fedaf75932701915cb.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 3,
+          "pageviews": 1751476
+        },
+        "title": "Don't Like",
+        "url": "http://genius.com/Kanye-west-dont-like-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 65,
+        "api_path": "/songs/1149",
+        "full_title": "Monster by Kanye West (Ft. Bon Iver, Jay Z, Nicki Minaj & Rick Ross)",
+        "header_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "header_image_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.1000x999x1.png",
+        "id": 1149,
+        "lyrics_owner_id": 17,
+        "path": "/Kanye-west-monster-lyrics",
+        "pyongs_count": 268,
+        "song_art_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 15,
+          "pageviews": 1697942
+        },
+        "title": "Monster",
+        "url": "http://genius.com/Kanye-west-monster-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 41,
+        "api_path": "/songs/482233",
+        "full_title": "All Day by Kanye West (Ft. Allan Kingdom, Paul McCartney & Theophilus London)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/5e64677831b6775d34bf583697962241.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/5e64677831b6775d34bf583697962241.500x500x1.jpg",
+        "id": 482233,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-all-day-lyrics",
+        "pyongs_count": 977,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/5e64677831b6775d34bf583697962241.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "pageviews": 1387638
+        },
+        "title": "All Day",
+        "url": "http://genius.com/Kanye-west-all-day-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 23,
+        "api_path": "/songs/2421998",
+        "full_title": "Pt. 2 by Kanye West (Ft. Desiigner)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.600x600x1.jpg",
+        "id": 2421998,
+        "lyrics_owner_id": 409643,
+        "path": "/Kanye-west-pt-2-lyrics",
+        "pyongs_count": 37,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 6,
+          "pageviews": 1305956
+        },
+        "title": "Pt. 2",
+        "url": "http://genius.com/Kanye-west-pt-2-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 26,
+        "api_path": "/songs/2463396",
+        "full_title": "U With Me? by Drake",
+        "header_image_thumbnail_url": "https://images.genius.com/93844cd1e3a29466b9dd513847dadf37.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/93844cd1e3a29466b9dd513847dadf37.1000x1000x1.jpg",
+        "id": 2463396,
+        "lyrics_owner_id": 104344,
+        "path": "/Drake-u-with-me-lyrics",
+        "pyongs_count": 76,
+        "song_art_image_thumbnail_url": "https://images.genius.com/93844cd1e3a29466b9dd513847dadf37.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 6,
+          "pageviews": 1298645
+        },
+        "title": "U With Me?",
+        "url": "http://genius.com/Drake-u-with-me-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/130",
+          "header_image_url": "https://images.genius.com/4339461bc1086fc703851e9770e1094c.958x1000x1.jpg",
+          "id": 130,
+          "image_url": "https://images.genius.com/4339461bc1086fc703851e9770e1094c.958x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Drake",
+          "url": "http://genius.com/artists/Drake"
+        }
+      },
+      {
+        "annotation_count": 19,
+        "api_path": "/songs/2412662",
+        "full_title": "Famous by Kanye West (Ft. Rihanna)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/0353d2f8948ef30eaa9b296a15cf5907.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/0353d2f8948ef30eaa9b296a15cf5907.1000x1000x1.jpg",
+        "id": 2412662,
+        "lyrics_owner_id": 172030,
+        "path": "/Kanye-west-famous-lyrics",
+        "pyongs_count": 85,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/3823f9649c536d7fd38ca93985d4467b.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 7,
+          "pageviews": 1187810
+        },
+        "title": "Famous",
+        "url": "http://genius.com/Kanye-west-famous-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 42,
+        "api_path": "/songs/167267",
+        "full_title": "I Am a God by Kanye West (Ft. God)",
+        "header_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
         "id": 167267,
+        "lyrics_owner_id": 232035,
+        "path": "/Kanye-west-i-am-a-god-lyrics",
+        "pyongs_count": 93,
+        "song_art_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 1173941
+        },
         "title": "I Am a God",
         "url": "http://genius.com/Kanye-west-i-am-a-god-lyrics",
-        "path": "/Kanye-west-i-am-a-god-lyrics",
-        "header_image_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
         "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
           "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
           "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 89
+          "url": "http://genius.com/artists/Kanye-west"
+        }
       },
       {
+        "annotation_count": 26,
+        "api_path": "/songs/2403628",
+        "full_title": "Real Friends by Kanye West (Ft. Ty Dolla $ign)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.600x600x1.jpg",
+        "id": 2403628,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-real-friends-lyrics",
+        "pyongs_count": 172,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/d4d051b8868f4ef49b2c7f9266d27236.300x298x1.png",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 3,
+          "pageviews": 1151344
+        },
+        "title": "Real Friends",
+        "url": "http://genius.com/Kanye-west-real-friends-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 54,
+        "api_path": "/songs/2403856",
+        "full_title": "No More Parties in LA by Kanye West (Ft. Kendrick Lamar)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
+        "id": 2403856,
+        "lyrics_owner_id": 22533,
+        "path": "/Kanye-west-no-more-parties-in-la-lyrics",
+        "pyongs_count": 159,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/23eeffe52ef34fd68186f3d705aa9160.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 8,
+          "pageviews": 1131067
+        },
+        "title": "No More Parties in LA",
+        "url": "http://genius.com/Kanye-west-no-more-parties-in-la-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 57,
+        "api_path": "/songs/171400",
+        "full_title": "I'm In It by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
+        "id": 171400,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-im-in-it-lyrics",
+        "pyongs_count": 103,
+        "song_art_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 1068470
+        },
+        "title": "I'm In It",
+        "url": "http://genius.com/Kanye-west-im-in-it-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 40,
+        "api_path": "/songs/171397",
+        "full_title": "Hold My Liquor by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.1000x1000x1.jpg",
+        "id": 171397,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-hold-my-liquor-lyrics",
+        "pyongs_count": 145,
+        "song_art_image_thumbnail_url": "https://images.genius.com/49ad868ef496fdb5bf3b7f21a17f35f8.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 1058674
+        },
+        "title": "Hold My Liquor",
+        "url": "http://genius.com/Kanye-west-hold-my-liquor-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 30,
+        "api_path": "/songs/2399676",
+        "full_title": "Facts (Charlie Heat Version) by Kanye West",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/5b8b876a0a2a93e9c9cecfc32d7a596b.600x600x1.jpg",
+        "id": 2399676,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-facts-charlie-heat-version-lyrics",
+        "pyongs_count": 120,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/e26e2b06b5036e21d559ef92df87e944.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 1037715
+        },
+        "title": "Facts (Charlie Heat Version)",
+        "url": "http://genius.com/Kanye-west-facts-charlie-heat-version-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 13,
+        "api_path": "/songs/2463398",
+        "full_title": "Feel No Ways by Drake",
+        "header_image_thumbnail_url": "https://images.genius.com/93844cd1e3a29466b9dd513847dadf37.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/93844cd1e3a29466b9dd513847dadf37.1000x1000x1.jpg",
+        "id": 2463398,
+        "lyrics_owner_id": 272373,
+        "path": "/Drake-feel-no-ways-lyrics",
+        "pyongs_count": 49,
+        "song_art_image_thumbnail_url": "https://images.genius.com/93844cd1e3a29466b9dd513847dadf37.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 6,
+          "pageviews": 1031771
+        },
+        "title": "Feel No Ways",
+        "url": "http://genius.com/Drake-feel-no-ways-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/130",
+          "header_image_url": "https://images.genius.com/4339461bc1086fc703851e9770e1094c.958x1000x1.jpg",
+          "id": 130,
+          "image_url": "https://images.genius.com/4339461bc1086fc703851e9770e1094c.958x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Drake",
+          "url": "http://genius.com/artists/Drake"
+        }
+      },
+      {
+        "annotation_count": 25,
+        "api_path": "/songs/2421668",
+        "full_title": "Wolves by Kanye West (Ft. Sia & Vic Mensa)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/4a9ab19f57d791ae6d03852235b88fe9.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/4a9ab19f57d791ae6d03852235b88fe9.1000x1000x1.jpg",
+        "id": 2421668,
+        "lyrics_owner_id": 172030,
+        "path": "/Kanye-west-wolves-lyrics",
+        "pyongs_count": 67,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/4a9ab19f57d791ae6d03852235b88fe9.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 8,
+          "pageviews": 1013338
+        },
+        "title": "Wolves",
+        "url": "http://genius.com/Kanye-west-wolves-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 28,
+        "api_path": "/songs/510",
+        "full_title": "Power by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "header_image_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.1000x999x1.png",
+        "id": 510,
+        "lyrics_owner_id": 17,
+        "path": "/Kanye-west-power-lyrics",
+        "pyongs_count": 159,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/b301eaa4b30fad2ee032db074cadb03b.300x300x1.png",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 4,
+          "pageviews": 989922
+        },
+        "title": "Power",
+        "url": "http://genius.com/Kanye-west-power-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 20,
+        "api_path": "/songs/2421661",
+        "full_title": "FML by Kanye West (Ft. The Weeknd)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.600x600x1.jpg",
+        "id": 2421661,
+        "lyrics_owner_id": 672397,
+        "path": "/Kanye-west-fml-lyrics",
+        "pyongs_count": 65,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 10,
+          "pageviews": 968858
+        },
+        "title": "FML",
+        "url": "http://genius.com/Kanye-west-fml-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 73,
+        "api_path": "/songs/70202",
+        "full_title": "Cold by Kanye West (Ft. DJ Khaled)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/59c3d2583b8acb7628cd7f9b29ac3cec.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/59c3d2583b8acb7628cd7f9b29ac3cec.600x600x1.jpg",
+        "id": 70202,
+        "lyrics_owner_id": 27815,
+        "path": "/Kanye-west-cold-lyrics",
+        "pyongs_count": 49,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/59c3d2583b8acb7628cd7f9b29ac3cec.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 2,
+          "pageviews": 958879
+        },
+        "title": "Cold",
+        "url": "http://genius.com/Kanye-west-cold-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 9,
+        "api_path": "/songs/2422080",
+        "full_title": "I Love Kanye by Kanye West",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.600x600x1.jpg",
+        "id": 2422080,
+        "lyrics_owner_id": 272373,
+        "path": "/Kanye-west-i-love-kanye-lyrics",
+        "pyongs_count": 31,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/a4f479217c338a2aeaec6009457010b1.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 5,
+          "pageviews": 965098
+        },
+        "title": "I Love Kanye",
+        "url": "http://genius.com/Kanye-west-i-love-kanye-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 24,
+        "api_path": "/songs/2273458",
+        "full_title": "Tell Your Friends by The Weeknd",
+        "header_image_thumbnail_url": "https://images.genius.com/4d6a3a9b56e2b1073e36a7979b46b6d3.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/4d6a3a9b56e2b1073e36a7979b46b6d3.1000x1000x1.jpg",
+        "id": 2273458,
+        "lyrics_owner_id": 914051,
+        "path": "/The-weeknd-tell-your-friends-lyrics",
+        "pyongs_count": 55,
+        "song_art_image_thumbnail_url": "https://images.genius.com/4d6a3a9b56e2b1073e36a7979b46b6d3.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 957183
+        },
+        "title": "Tell Your Friends",
+        "url": "http://genius.com/The-weeknd-tell-your-friends-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/2358",
+          "header_image_url": "https://images.genius.com/27380c16873a2a96265ba47fbe12bb8c.1000x563x1.jpg",
+          "id": 2358,
+          "image_url": "https://images.genius.com/50efeac51a4b6afa398169cfcdd8865c.440x440x1.png",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "The Weeknd",
+          "url": "http://genius.com/artists/The-weeknd",
+          "iq": 175
+        }
+      },
+      {
+        "annotation_count": 100,
+        "api_path": "/songs/79864",
+        "full_title": "New God Flow by Kanye West (Ft. Ghostface Killah & Pusha T)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/9b534af2e6dfa2ce7613e6b9db092de1.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/9b534af2e6dfa2ce7613e6b9db092de1.600x600x1.jpg",
+        "id": 79864,
+        "lyrics_owner_id": 5307,
+        "path": "/Kanye-west-new-god-flow-lyrics",
+        "pyongs_count": 77,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/9b534af2e6dfa2ce7613e6b9db092de1.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 1,
+          "pageviews": 943553
+        },
+        "title": "New God Flow",
+        "url": "http://genius.com/Kanye-west-new-god-flow-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 26,
+        "api_path": "/songs/657936",
+        "full_title": "Only One by Kanye West (Ft. Paul McCartney)",
+        "header_image_thumbnail_url": "https://images.genius.com/96b4ea0b81ad27603482d44bc5f1280b.300x169x1.jpg",
+        "header_image_url": "https://images.genius.com/96b4ea0b81ad27603482d44bc5f1280b.1000x563x1.jpg",
+        "id": 657936,
+        "lyrics_owner_id": 172030,
+        "path": "/Kanye-west-only-one-lyrics",
+        "pyongs_count": 935,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/b9ec1c9ac35530aecfc8738d88a430ff.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 939655
+        },
+        "title": "Only One",
+        "url": "http://genius.com/Kanye-west-only-one-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 10,
+        "api_path": "/songs/690706",
+        "full_title": "FourFiveSeconds by Rihanna (Ft. Kanye West & Paul McCartney)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/d089b5cb08798b4281306ddeb6ca0379.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/d089b5cb08798b4281306ddeb6ca0379.1000x1000x1.jpg",
+        "id": 690706,
+        "lyrics_owner_id": 599242,
+        "path": "/Rihanna-fourfiveseconds-lyrics",
+        "pyongs_count": 1204,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/d089b5cb08798b4281306ddeb6ca0379.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "pageviews": 933915
+        },
+        "title": "FourFiveSeconds",
+        "url": "http://genius.com/Rihanna-fourfiveseconds-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/89",
+          "header_image_url": "https://images.genius.com/8353714f907477857490bd7411edb550.600x468x1.jpg",
+          "id": 89,
+          "image_url": "https://images.genius.com/926d6f9efdffb0ae2a7d109154a71480.1000x1000x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Rihanna",
+          "url": "http://genius.com/artists/Rihanna",
+          "iq": 1493
+        }
+      },
+      {
+        "annotation_count": 11,
+        "api_path": "/songs/2412668",
+        "full_title": "Waves by Kanye West (Ft. Chris Brown)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/4a9ab19f57d791ae6d03852235b88fe9.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/4a9ab19f57d791ae6d03852235b88fe9.1000x1000x1.jpg",
+        "id": 2412668,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-waves-lyrics",
+        "pyongs_count": 50,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/4a9ab19f57d791ae6d03852235b88fe9.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 13,
+          "pageviews": 936477
+        },
+        "title": "Waves",
+        "url": "http://genius.com/Kanye-west-waves-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 87,
+        "api_path": "/songs/1944",
+        "full_title": "Blame Game by Kanye West (Ft. John Legend)",
+        "header_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "header_image_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.1000x999x1.png",
+        "id": 1944,
+        "lyrics_owner_id": 1605,
+        "path": "/Kanye-west-blame-game-lyrics",
+        "pyongs_count": 90,
+        "song_art_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "pageviews": 929796
+        },
+        "title": "Blame Game",
+        "url": "http://genius.com/Kanye-west-blame-game-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 26,
+        "api_path": "/songs/52022",
+        "full_title": "Gotta Have It by Jay Z & Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/80fc6014277eaaf1c8d7c9c9120db674.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/80fc6014277eaaf1c8d7c9c9120db674.600x600x1.jpg",
+        "id": 52022,
+        "lyrics_owner_id": 3,
+        "path": "/Jay-z-and-kanye-west-gotta-have-it-lyrics",
+        "pyongs_count": 71,
+        "song_art_image_thumbnail_url": "https://images.genius.com/80fc6014277eaaf1c8d7c9c9120db674.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 3,
+          "pageviews": 928474
+        },
+        "title": "Gotta Have It",
+        "url": "http://genius.com/Jay-z-and-kanye-west-gotta-have-it-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/652275",
+          "header_image_url": "https://images.genius.com/7b19a92897a3bbfa22f2c6a8f76cd6ec.500x358x1.jpg",
+          "id": 652275,
+          "image_url": "https://images.genius.com/7b19a92897a3bbfa22f2c6a8f76cd6ec.500x358x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Jay Z & Kanye West",
+          "url": "http://genius.com/artists/Jay-z-and-kanye-west"
+        }
+      },
+      {
+        "annotation_count": 25,
+        "api_path": "/songs/1295",
+        "full_title": "Runaway by Kanye West (Ft. Pusha T)",
+        "header_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "header_image_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.1000x999x1.png",
+        "id": 1295,
+        "lyrics_owner_id": 778,
+        "path": "/Kanye-west-runaway-lyrics",
+        "pyongs_count": 256,
+        "song_art_image_thumbnail_url": "https://images.genius.com/21b3670f0de540da62e939a1bbc65cbc.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "pageviews": 903664
+        },
+        "title": "Runaway",
+        "url": "http://genius.com/Kanye-west-runaway-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 24,
+        "api_path": "/songs/701664",
+        "full_title": "One Man Can Change the World by Big Sean (Ft. John Legend & Kanye West)",
+        "header_image_thumbnail_url": "https://images.genius.com/4529826542081e88db51f2e62cc5afcf.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/4529826542081e88db51f2e62cc5afcf.1000x1000x1.jpg",
+        "id": 701664,
+        "lyrics_owner_id": 599242,
+        "path": "/Big-sean-one-man-can-change-the-world-lyrics",
+        "pyongs_count": 298,
+        "song_art_image_thumbnail_url": "https://images.genius.com/4529826542081e88db51f2e62cc5afcf.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 3,
+          "pageviews": 891724
+        },
+        "title": "One Man Can Change the World",
+        "url": "http://genius.com/Big-sean-one-man-can-change-the-world-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/492",
+          "header_image_url": "https://images.genius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
+          "id": 492,
+          "image_url": "https://images.genius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Big Sean",
+          "url": "http://genius.com/artists/Big-sean",
+          "iq": 6042
+        }
+      },
+      {
+        "annotation_count": 44,
+        "api_path": "/songs/94434",
+        "full_title": "Guap by Big Sean (Ft. Kanye West)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/366ce8eaeb51159de3bfbd1b7b560b69.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/366ce8eaeb51159de3bfbd1b7b560b69.500x500x1.jpg",
+        "id": 94434,
+        "lyrics_owner_id": 25801,
+        "path": "/Big-sean-guap-lyrics",
+        "pyongs_count": 109,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/366ce8eaeb51159de3bfbd1b7b560b69.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "pageviews": 869586
+        },
+        "title": "Guap",
+        "url": "http://genius.com/Big-sean-guap-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/492",
+          "header_image_url": "https://images.genius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
+          "id": 492,
+          "image_url": "https://images.genius.com/7c7b94de55bcdbd9cfa5208e21667864.1000x667x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Big Sean",
+          "url": "http://genius.com/artists/Big-sean",
+          "iq": 6042
+        }
+      },
+      {
+        "annotation_count": 42,
+        "api_path": "/songs/848",
+        "full_title": "Can't Tell Me Nothing by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/336af3b66a79eb083a8469fa6f5c84c5.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/336af3b66a79eb083a8469fa6f5c84c5.1000x1000x1.jpg",
+        "id": 848,
+        "lyrics_owner_id": 591,
+        "path": "/Kanye-west-cant-tell-me-nothing-lyrics",
+        "pyongs_count": 97,
+        "song_art_image_thumbnail_url": "https://images.genius.com/336af3b66a79eb083a8469fa6f5c84c5.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 5,
+          "pageviews": 869083
+        },
+        "title": "Can't Tell Me Nothing",
+        "url": "http://genius.com/Kanye-west-cant-tell-me-nothing-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 4,
+        "api_path": "/songs/714782",
+        "full_title": "The Life of Pablo [Tracklist + Album Cover] by Kanye West",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/0353d2f8948ef30eaa9b296a15cf5907.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/0353d2f8948ef30eaa9b296a15cf5907.1000x1000x1.jpg",
+        "id": 714782,
+        "lyrics_owner_id": 104344,
+        "path": "/Kanye-west-the-life-of-pablo-tracklist-album-cover-annotated",
+        "pyongs_count": 116,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/0353d2f8948ef30eaa9b296a15cf5907.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 852649
+        },
+        "title": "The Life of Pablo [Tracklist + Album Cover]",
+        "url": "http://genius.com/Kanye-west-the-life-of-pablo-tracklist-album-cover-annotated",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 22,
+        "api_path": "/songs/398159",
+        "full_title": "I Won by Future (Ft. Kanye West)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/699cfcea119d2b7a679511a891e0a1ee.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/699cfcea119d2b7a679511a891e0a1ee.500x500x1.jpg",
+        "id": 398159,
+        "lyrics_owner_id": 104344,
+        "path": "/Future-i-won-lyrics",
+        "pyongs_count": 500,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/699cfcea119d2b7a679511a891e0a1ee.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "pageviews": 849466
+        },
+        "title": "I Won",
+        "url": "http://genius.com/Future-i-won-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/2197",
+          "header_image_url": "https://images.genius.com/018fc4e314d4c532043a3d89d9496240.720x405x1.jpg",
+          "id": 2197,
+          "image_url": "https://images.genius.com/018fc4e314d4c532043a3d89d9496240.720x405x1.jpg",
+          "is_meme_verified": true,
+          "is_verified": true,
+          "name": "Future",
+          "url": "http://genius.com/artists/Future",
+          "iq": 2453
+        }
+      },
+      {
+        "annotation_count": 23,
+        "api_path": "/songs/1660",
+        "full_title": "Dark Fantasy by Kanye West",
+        "header_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "header_image_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.1000x999x1.png",
+        "id": 1660,
+        "lyrics_owner_id": 1429,
+        "path": "/Kanye-west-dark-fantasy-lyrics",
+        "pyongs_count": 107,
+        "song_art_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 841596
+        },
+        "title": "Dark Fantasy",
+        "url": "http://genius.com/Kanye-west-dark-fantasy-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 49,
+        "api_path": "/songs/1791",
+        "full_title": "Gorgeous by Kanye West (Ft. Kid Cudi & Raekwon)",
+        "header_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "header_image_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.1000x999x1.png",
+        "id": 1791,
+        "lyrics_owner_id": 1211,
+        "path": "/Kanye-west-gorgeous-lyrics",
+        "pyongs_count": 130,
+        "song_art_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 8,
+          "pageviews": 816360
+        },
+        "title": "Gorgeous",
+        "url": "http://genius.com/Kanye-west-gorgeous-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 77,
+        "api_path": "/songs/147",
+        "full_title": "Forever by Drake (Ft. Eminem, Kanye West & Lil Wayne)",
+        "header_image_thumbnail_url": "https://images.genius.com/03f1f5f928dc1493a15c395bef231af3.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/03f1f5f928dc1493a15c395bef231af3.600x600x1.jpg",
         "id": 147,
+        "lyrics_owner_id": 5,
+        "path": "/Drake-forever-lyrics",
+        "pyongs_count": 170,
+        "song_art_image_thumbnail_url": "https://images.genius.com/03f1f5f928dc1493a15c395bef231af3.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 3,
+          "pageviews": 806077
+        },
         "title": "Forever",
         "url": "http://genius.com/Drake-forever-lyrics",
-        "path": "/Drake-forever-lyrics",
-        "header_image_url": "https://images.rapgenius.com/c02fc3d42670f65315e887ca3356f41c.316x316x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/c02fc3d42670f65315e887ca3356f41c.300x300x1.jpg",
         "primary_artist": {
+          "api_path": "/artists/130",
+          "header_image_url": "https://images.genius.com/4339461bc1086fc703851e9770e1094c.958x1000x1.jpg",
           "id": 130,
+          "image_url": "https://images.genius.com/4339461bc1086fc703851e9770e1094c.958x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
           "name": "Drake",
-          "url": "http://genius.com/artists/Drake",
-          "image_url": "https://images.rapgenius.com/c9c2616d515c4cf71566d6fe1e6e528a.1000x625x1.jpg",
-          "is_verified": false
-        },
-        "annotation_count": 1,
-        "pyongs_count": 153
+          "url": "http://genius.com/artists/Drake"
+        }
       },
       {
-        "id": 1781,
-        "title": "All of the Lights",
-        "url": "http://genius.com/Kanye-west-all-of-the-lights-lyrics",
-        "path": "/Kanye-west-all-of-the-lights-lyrics",
-        "header_image_url": "https://images.rapgenius.com/6620efef15b0e3cb58880870f6f28816.400x400x1.jpg",
-        "header_image_thumbnail_url": "https://images.rapgenius.com/6620efef15b0e3cb58880870f6f28816.300x300x1.jpg",
-        "primary_artist": {
-          "id": 72,
-          "name": "Kanye West",
-          "url": "http://genius.com/artists/Kanye-west",
-          "image_url": "https://images.rapgenius.com/f40b8cd914911bfd6b003b16d86715a6.1000x563x1.jpg",
-          "is_verified": false
+        "annotation_count": 39,
+        "api_path": "/songs/1267",
+        "full_title": "Gold Digger by Kanye West (Ft. Jamie Foxx)",
+        "header_image_thumbnail_url": "https://images.genius.com/2eb75c8a4d53e8782d8e37681871a9bf.300x300x1.jpg",
+        "header_image_url": "https://images.genius.com/2eb75c8a4d53e8782d8e37681871a9bf.1000x1000x1.jpg",
+        "id": 1267,
+        "lyrics_owner_id": 7,
+        "path": "/Kanye-west-gold-digger-lyrics",
+        "pyongs_count": 102,
+        "song_art_image_thumbnail_url": "https://images.genius.com/12689354b232f124a23df209cc8659b4.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 2,
+          "pageviews": 799788
         },
-        "annotation_count": 1,
-        "pyongs_count": 145
+        "title": "Gold Digger",
+        "url": "http://genius.com/Kanye-west-gold-digger-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
+      },
+      {
+        "annotation_count": 30,
+        "api_path": "/songs/2450579",
+        "full_title": "Pop Style (Single Version) by Drake (Ft. The Throne)",
+        "header_image_thumbnail_url": "https://images.rapgenius.com/9fc1dedb2e839026ab12a086c780c779.300x300x1.jpg",
+        "header_image_url": "https://images.rapgenius.com/9fc1dedb2e839026ab12a086c780c779.1000x1000x1.jpg",
+        "id": 2450579,
+        "lyrics_owner_id": 672397,
+        "path": "/Drake-pop-style-single-version-lyrics",
+        "pyongs_count": 79,
+        "song_art_image_thumbnail_url": "https://images.rapgenius.com/9fc1dedb2e839026ab12a086c780c779.300x300x1.jpg",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "concurrents": 3,
+          "pageviews": 788026
+        },
+        "title": "Pop Style (Single Version)",
+        "url": "http://genius.com/Drake-pop-style-single-version-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/130",
+          "header_image_url": "https://images.genius.com/4339461bc1086fc703851e9770e1094c.958x1000x1.jpg",
+          "id": 130,
+          "image_url": "https://images.genius.com/4339461bc1086fc703851e9770e1094c.958x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Drake",
+          "url": "http://genius.com/artists/Drake"
+        }
+      },
+      {
+        "annotation_count": 42,
+        "api_path": "/songs/1207",
+        "full_title": "Devil in a New Dress by Kanye West (Ft. Rick Ross)",
+        "header_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "header_image_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.1000x999x1.png",
+        "id": 1207,
+        "lyrics_owner_id": 1034,
+        "path": "/Kanye-west-devil-in-a-new-dress-lyrics",
+        "pyongs_count": 110,
+        "song_art_image_thumbnail_url": "https://images.genius.com/f3df8f5e72bd83774636e4ae647f1142.300x300x1.png",
+        "stats": {
+          "hot": false,
+          "unreviewed_annotations": 0,
+          "pageviews": 738379
+        },
+        "title": "Devil in a New Dress",
+        "url": "http://genius.com/Kanye-west-devil-in-a-new-dress-lyrics",
+        "primary_artist": {
+          "api_path": "/artists/72",
+          "header_image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "id": 72,
+          "image_url": "https://images.genius.com/138bc31038c9b9d92ff6d5b35338000d.1000x667x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Kanye West",
+          "url": "http://genius.com/artists/Kanye-west"
+        }
       }
-    ]
+    ],
+    "next_page": 2
   }
 }
