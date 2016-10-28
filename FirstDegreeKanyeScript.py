@@ -1,11 +1,4 @@
-" This file is supposed to take the json data from the Rap Genius API"
-"that has already been put in a txt file and return it as a list of"
-"the song ids"
 
-'''
-UPDATED: NOTE TO SELF: MAY NEED TO CHANGE 'kanyeFirstDegreeDict' back to a list because
-I want to keep the order (popularity) in tact and I may want to create a dict for the songs API call
-'''
 
 import json
 #!/usr/bin/python
@@ -29,48 +22,43 @@ authenticate(NEO4J_URL, NEO4J_USER, NEO4J_PASSWORD)
 graph = Graph('http://' + NEO4J_URL + NEO4J_GRAPH)
 #graph.delete_all()
 
-'''
-kanyeCall = requests.get("http://api.genius.com/artists/72/songs?per_page=50&sort=popularity&secondary_artist&featured_artist",
-    params={"access_token": "QoaHkyBYNqEmLJk6P3SFdBbm4R_6pXXssK24Wa0WR29MoBFHdG3gUI2IFJFxFFfw"})
-'''
-
-with io.open("/Users/randy/PycharmProjects/6degrees/KanyeAllSongs.txt", encoding='utf-8') as data_file:
-    data=json.load(data_file)
-#    pprint(data)
-#Can now process data as python code
-
 kanye = Node("Artist", name="Kanye West")
-#print(kanye)
 graph.create(kanye)
 
 kanyeFirstDegreeDict = OrderedDict()
 #creates an *ordered* dict (ordered by popularity of song)
+nextPage = 1
 
-responseHandling = data["response"]["songs"]
-#partially parses JSON
+while nextPage != None:
+    print(nextPage)
 
-for i,entry in enumerate(responseHandling):
-    kanyeFirstDegreeDict[responseHandling[i]["id"]]=responseHandling[i]["title"]
-    # adds values to OrderedDict
-    # formatd as follows:
-    # OrderedDict([(2399676, 'FACTS'), (2403628, 'Real Friends')...
-    # with songID has the key and song title as the value
+    kanyeResponse = requests.get("http://api.genius.com/artists/72/songs?per_page=50&sort=popularity&page="+str(nextPage),
+        params={"access_token": "QoaHkyBYNqEmLJk6P3SFdBbm4R_6pXXssK24Wa0WR29MoBFHdG3gUI2IFJFxFFfw"})
+    kanyeJSON = json.loads(kanyeResponse.text)
 
+    nextPage = kanyeJSON["response"]["next_page"]
 
-#print (kanyeFirstDegreeDict)
-# Prints a dict with the song ids as the key and song title as the value
-#print (kanyeFirstDegreeDict)
+    responseHandling = kanyeJSON["response"]["songs"]
+    #partially parses JSON
 
-#EVERYTHING ABOVE THIS LINE HAS BEEN ABOUT PARSING KANYE DATA INTO ORDERED DICT#
+    for i,entry in enumerate(responseHandling):
+        kanyeFirstDegreeDict[responseHandling[i]["id"]]=responseHandling[i]["title"]
+        # adds values to OrderedDict
+        # formated as follows:
+        # OrderedDict([(2399676, 'FACTS'), (2403628, 'Real Friends')...
+        # with songID as the key and song title as the value
 
-primaryArtists=OrderedDict()
+print (kanyeFirstDegreeDict)
+#All of Kanye's songs are stored here^
+
 kanyeFeaturedArtistsList = []
-kanyeFeaturedArtistsDict = {}
+kanyeArtistsDict = OrderedDict()
+#stores both primary and featured artists
 apiLimiterCounter=0
 
 for key in kanyeFirstDegreeDict:
-
-    print(key)
+#key = songid
+    #print(key)
 
 ##########################Everything here needs to be looped through 1027 times lol
     #time.sleep(1) #delays 1 second!
@@ -78,19 +66,58 @@ for key in kanyeFirstDegreeDict:
             params={"access_token": "QoaHkyBYNqEmLJk6P3SFdBbm4R_6pXXssK24Wa0WR29MoBFHdG3gUI2IFJFxFFfw"})
     #print(resp)
     pythonicData = json.loads(resp.text)
-    songsRespHandling = pythonicData["response"]["song"]["featured_artists"]
+    featArtistData = pythonicData["response"]["song"]["featured_artists"]
     #pprint(songsRespHandling)
 
     nameOfSong = pythonicData["response"]["song"]["title"]
+    songId = pythonicData["response"]["song"]["id"]
+    primaryArtistName = pythonicData["response"]["song"]["primary_artist"]["name"]
+    primaryArtistId = pythonicData["response"]["song"]["primary_artist"]["id"]
 
-    primaryArtists[pythonicData["response"]["song"]["primary_artist"]["name"]] = pythonicData["response"]["song"]["primary_artist"]["id"]
-    #Makes OrderedDict of Primary artist & Artist id
+    if primaryArtistName in kanyeArtistsDict:
+        pass
+    else:
+        kanyeArtistsDict[primaryArtistName] = primaryArtistId, nameOfSong, songId
 
-    for i in range(0,len(songsRespHandling)):
-        skip = False
-        print(i)
-        kanyeFeaturedArtistsDict[songsRespHandling[i]["name"]]=songsRespHandling[i]["id"]
-        print(kanyeFeaturedArtistsDict)
+    for i in range(0,len(featArtistData)):
+        #print(i)
+
+        featuredArtistName = featArtistData[i]["name"]
+        featuredArtistId = featArtistData[i]["id"]
+        kanyeArtistsDict[featuredArtistName] = featuredArtistId, nameOfSong, songId
+        #puts all featured artists into dict
+
+
+    apiLimiterCounter += 1
+    #if apiLimiterCounter == 6:
+    #    break
+print(kanyeArtistsDict)
+#print(apiLimiterCounter)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     #     if songsRespHandling[i]["id"] == 72:
     #         skip = True
     #
@@ -117,9 +144,7 @@ for key in kanyeFirstDegreeDict:
 #non_bmp_map = pythonicData.fromkeys(range(0x10000, sys.maxunicode + 1), 0xfffd)
 #print(non_bmp_map)
 
-    apiLimiterCounter+=1
-    if apiLimiterCounter == 6:
-        break
+
 
 #results=graph.cypher.execute("match (n) where n.name= '{}' return n".format("Kendrick Lamar"))
 #where Kendrick Lamar is currently is where I can put a variable and have the song name returned
