@@ -75,17 +75,24 @@ for key in kanyeFirstDegreeDict:
     primaryArtistId = pythonicData["response"]["song"]["primary_artist"]["id"]
 
     if primaryArtistName in kanyeArtistsDict:
+        print(primaryArtistName)
         pass
     else:
         kanyeArtistsDict[primaryArtistName] = primaryArtistId, nameOfSong, songId
+        print(kanyeArtistsDict)
 
     for i in range(0,len(featArtistData)):
         #print(i)
 
         featuredArtistName = featArtistData[i]["name"]
         featuredArtistId = featArtistData[i]["id"]
-        kanyeArtistsDict[featuredArtistName] = featuredArtistId, nameOfSong, songId
-        #puts all featured artists into dict
+
+        if featuredArtistName in kanyeArtistsDict:
+            print(featuredArtistName)
+            pass
+        else:
+            kanyeArtistsDict[featuredArtistName] = featuredArtistId, nameOfSong, songId
+            #puts all featured artists into dict
 
 
     apiLimiterCounter += 1
